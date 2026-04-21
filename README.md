@@ -109,7 +109,3 @@ CC_Project.ipynb
 - Optimize model using hyperparameter tuning  
 - Deploy as a real-time fraud detection system  
 
----
-
-## 👨‍💻 Author
-Anusha Sarla
