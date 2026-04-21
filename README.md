@@ -89,10 +89,6 @@ CC_Project.ipynb
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Environment:** Jupyter Notebook
 
-## 📁 Project Structure
-├── data/               # Dataset (not included)
-└── CC_Project.ipynb    # Main notebook
-
 ## 📊 Results & Insights
 - The model effectively distinguishes between fraudulent and legitimate transactions  
 - Demonstrates the importance of handling imbalanced datasets  
