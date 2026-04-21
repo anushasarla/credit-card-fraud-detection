@@ -91,7 +91,7 @@ CC_Project.ipynb
 
 ## 📁 Project Structure
 ├── data/               # Dataset (not included)
-├── CC_Project.ipynb    # Main notebook
+└── CC_Project.ipynb    # Main notebook
 
 ## 📊 Results & Insights
 - The model effectively distinguishes between fraudulent and legitimate transactions  
